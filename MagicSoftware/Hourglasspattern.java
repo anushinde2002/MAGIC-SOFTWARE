@@ -38,3 +38,15 @@ public class Hourglasspattern {
     }
 
 }
+
+
+
+
+OUTPUT-
+    *******
+     *****
+      ***
+       *
+      ***
+     *****
+    *******
